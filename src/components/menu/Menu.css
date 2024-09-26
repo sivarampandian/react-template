@@ -1,0 +1,34 @@
+.jimmy{
+    height: 60px;
+    width: 60px;
+    border: 2px solid white;
+    border-radius: 50%;
+    color: white;
+}
+.menus
+{
+    background-color: rgba(195, 0, 255, 0.555);
+    color: white;
+    
+}
+.menus1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.menuline{
+    height: 3px;
+    width: 100px;
+    background-color: white;
+}
+
+.menus1 h4{
+    font-weight: 700;
+    
+}
+.menus1 p
+{
+    font-weight: 600;
+}

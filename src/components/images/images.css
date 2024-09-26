@@ -1,0 +1,29 @@
+.image{
+    width: 220px;
+    height: 180px;
+    
+}
+
+.imageflex{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+     
+    align-items: center;
+    gap: 8px;
+}
+.imageflex1{
+    display: flex;
+    gap: 8px;
+
+}
+.imageflex2{
+    display: flex;
+    gap: 8px;
+    
+}
+.imagy h2
+{
+    display: flex;
+    justify-content: center;
+}
